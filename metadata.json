@@ -1,0 +1,7 @@
+{
+  "name": "UniversalTranslator",
+  "description": "Premium multi-dialect conversational translation powered by the Eburon Neural Core.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
